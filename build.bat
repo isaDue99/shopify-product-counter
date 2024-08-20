@@ -1,0 +1,1 @@
+pyinstaller --hidden-import babel.numbers --onefile --windowed shopify-product-counter.py
